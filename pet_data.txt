@@ -4,5 +4,3 @@
 4:Amanda:Dog:Golden Retriever:4:Female:Children,Other dogs: Amanda Williams:amanda.williams@example.com:She is a loyal companion and loves<br>to play in the yard.
 5:David:Cat:Siamese:1:Male:Other cats:David Brown:david.brown@example.com:He is very playful and loves to chase<br>string and toys.
 6:Ethanhamburg:Dog:Unknown Breed:12:Male:Children:Ethan Hamburg:Intingtoplaner@yahoo.com:
-7:Brandon:Dog:Labrador,Golden Retriever,Rottweiler,Bulldog,Poodle:3:Male::Brandon T:brandon@thetoledanos.com:
-8:Brandon:Dog:Labrador,Golden Retriever,Rottweiler,Bulldog,Poodle:3:Male::Brandon T:brandon@thetoledanos.com:
