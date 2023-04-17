@@ -1,0 +1,8 @@
+1:John:Dog:Labrador,Golden Retriever:3:Male:Children,Other dogs:John Doe:john.doe@example.com:He loves to play fetch<br>and go for walks in the park.
+2:Sarah:Cat:Persian:2:Female:Other cats:Sarah Smith:sarah.smith@example.com:She is very friendly and loves to cuddle.
+3:Michael:Dog:Poodle:6:Male:Children:Michael Johnson:michael.johnson@example.com:He is a great companion and loves<br>to go on long walks.
+4:Amanda:Dog:Golden Retriever:4:Female:Children,Other dogs: Amanda Williams:amanda.williams@example.com:She is a loyal companion and loves<br>to play in the yard.
+5:David:Cat:Siamese:1:Male:Other cats:David Brown:david.brown@example.com:He is very playful and loves to chase<br>string and toys.
+6:Ethanhamburg:Dog:Unknown Breed:12:Male:Children:Ethan Hamburg:Intingtoplaner@yahoo.com:
+7:Brandon:Dog:Labrador,Golden Retriever,Rottweiler,Bulldog,Poodle:3:Male::Brandon T:brandon@thetoledanos.com:
+8:Brandon:Dog:Labrador,Golden Retriever,Rottweiler,Bulldog,Poodle:3:Male::Brandon T:brandon@thetoledanos.com:
