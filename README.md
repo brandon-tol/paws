@@ -1,4 +1,4 @@
-# TEST Paws
+# Paws
 ## Every good boy is a great friend
 ## by Brandon Toledano (40244896)
 
